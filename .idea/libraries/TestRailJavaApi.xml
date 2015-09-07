@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TestRailJavaApi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../TestRailJavaApi/out/artifacts/TestRailJavaApi_jar/TestRailJavaApi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

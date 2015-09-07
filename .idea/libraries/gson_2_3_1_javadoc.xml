@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="gson-2.3.1-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../selenium-2.47.1/selenium-java-2.47.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../selenium-2.47.1/selenium-server-standalone-2.39.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../selenium-2.47.1/selenium-java-2.47.1-srcs.jar!/" />
+    </SOURCES>
+  </library>
+</component>
